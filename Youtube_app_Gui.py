@@ -61,7 +61,11 @@ def submit():
         
         canva[i].create_image(x1,y1,anchor=CENTER,image=photo[i])
         #linker.place(x=x,y=y)
-        canva[i].bind("<Button-1>",lambda e:webbrowser.open_new_tab(urls[i]))
+    canva[0].bind("<Button-1>",lambda e:webbrowser.open_new_tab(urls[0]))
+    canva[1].bind("<Button-1>",lambda e:webbrowser.open_new_tab(urls[1]))
+    canva[2].bind("<Button-1>",lambda e:webbrowser.open_new_tab(urls[2]))
+    canva[3].bind("<Button-1>",lambda e:webbrowser.open_new_tab(urls[3]))     
+    canva[4].bind("<Button-1>",lambda e:webbrowser.open_new_tab(urls[4]))
 
     
          
