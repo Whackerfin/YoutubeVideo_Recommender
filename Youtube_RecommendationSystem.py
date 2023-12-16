@@ -1,4 +1,3 @@
-import private
 from googleapiclient.discovery import build
 link_prescript="https://www.youtube.com/watch?v="
 image_prescript="http://img.youtube.com/vi/"
