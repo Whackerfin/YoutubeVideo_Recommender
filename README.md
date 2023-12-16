@@ -3,7 +3,7 @@
  
  **SETUP**
  Remove the `import private` and exchange the private.key with your Google API developer key in the Youtube_RecommendationSystem Script
- ![Alt text]((https://github.com/Whackerfin/YoutubeVideo_Recommender/assets/135827600/2d13e71e-4eb0-4365-9498-5dac12821214))
+ ![image]((https://github.com/Whackerfin/YoutubeVideo_Recommender/assets/135827600/2d13e71e-4eb0-4365-9498-5dac12821214))
 
 **CUSTOMIZATION**
 Go to the Youtube_RecommendationSystem Script
