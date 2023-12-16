@@ -4,7 +4,18 @@
  **SETUP**
  
  Remove the `import private` and exchange the private.key with your Google API developer key in the Youtube_RecommendationSystem Script
- ![image]((https://github.com/Whackerfin/YoutubeVideo_Recommender/assets/135827600/2d13e71e-4eb0-4365-9498-5dac12821214))
+ ![image](((https://github.com/Whackerfin/YoutubeVideo_Recommender/blob/main/Documentation_Images/Setup.png)))
+
+ Make sure these libraries are installed if not already:
+ * tkinter
+ * customtkinter
+ * webbrowser
+ * PIL
+ * googleapiclient
+
+ **RUNNING THE CODE**
+
+ To run the program just run the Youtube_app_Gui Script in your preferred IDE
 
 **CUSTOMIZATION**
 
